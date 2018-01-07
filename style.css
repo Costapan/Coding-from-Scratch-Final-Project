@@ -1,0 +1,39 @@
+img {
+   width: 90px;
+   height: 90px;
+   float: left;
+}
+
+#postAge, #postPhoneNumber, #postAddress {
+  text-align:left;
+  padding:.25rem;
+}
+
+#postFullName {
+  font-size:2em;
+}
+
+#idCard {
+   border: 5px solid black;
+   border-radius: 15px;
+   height: 14em;
+   width: 25em;
+   margin-top: 33rem;
+   margin: auto;
+   font-family: sans-serif;
+   background-color: #ffcccc;
+}
+
+button {
+  border-radius: 7px;
+  margin: 5px;
+}
+
+body {
+  background: #60a2ba;
+  font-weight: 200;
+}
+
+div {
+  text-align: center;
+}
